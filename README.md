@@ -8,19 +8,19 @@ IAC
 │   └── Introdução.ipynb
 │
 └── 2 - Aprendizado Supervisionado
-│    ├── Introdução_Aprendizado_Supervisionado.ipynb
-│    ├── Regressão_Logística.ipynb
+│    └── Introdução_Aprendizado_Supervisionado.ipynb
+│    └── Regressão_Logística.ipynb
 │    └── Regressão_Linear.ipynb
 │    └── KNN.ipynb
 │    └── SVM.ipynb
 │
 └── A0 - Fundamentos Matemáticos
-│    ├── Fundamentos_Matemáticos.ipynb
-|    ├── Resumo_Álgebra_Linear.ipynb
-|    ├── Resumo_Cálculo.ipynb
+│    └── Fundamentos_Matemáticos.ipynb
+|    └── Resumo_Álgebra_Linear.ipynb
+|    └── Resumo_Cálculo.ipynb
 │
 └── Ax - Referências
-│    ├── Referências.ipynb
+│    └── Referências.ipynb
 
 
 ```
