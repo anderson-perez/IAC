@@ -14,6 +14,11 @@ IAC
 │    └── KNN.ipynb
 │    └── SVM.ipynb
 │
+└── 3 - Aprendizado não Supervisionado
+│    └── Introdução_aprendizado_não_Supervisionado.ipynb
+│    └── DBSCAN.ipynb
+│    └── KMeans.ipynb
+│
 └── A0 - Fundamentos Matemáticos
 │    └── Fundamentos_Matemáticos.ipynb
 |    └── Resumo_Álgebra_Linear.ipynb
