@@ -7,24 +7,33 @@ IAC
 ├── 1 - Introdução
 │   └── Introdução.ipynb
 │
-└── 2 - Aprendizado Supervisionado
+├── 2 - Aprendizado Supervisionado
 │    └── Introdução_Aprendizado_Supervisionado.ipynb
 │    └── Regressão_Logística.ipynb
 │    └── Regressão_Linear.ipynb
 │    └── KNN.ipynb
 │    └── SVM.ipynb
+│    └── Árvore_de_decisão.ipynb
 │
-└── 3 - Aprendizado não Supervisionado
+├── 3 - Aprendizado não Supervisionado
 │    └── Introdução_aprendizado_não_Supervisionado.ipynb
 │    └── DBSCAN.ipynb
 │    └── KMeans.ipynb
+│    └── PCA.ipynb
 │
-└── A0 - Fundamentos Matemáticos
+├── A0 - Fundamentos Matemáticos
 │    └── Fundamentos_Matemáticos.ipynb
 |    └── Resumo_Álgebra_Linear.ipynb
 |    └── Resumo_Cálculo.ipynb
 │
-└── Ax - Referências
+├── A1 - Análise, Tratamento e Visualização de Dados
+│    └── Análise_Exploratória_Dados.ipynb
+│    └── Normalizacao_Padronizacao.ipynb
+│
+├── A3 - Hiperparâmetros
+│    └── Taxa_de_Aprendizado.ipynb
+│
+├── Ax - Referências
 │    └── Referências.ipynb
 
 
