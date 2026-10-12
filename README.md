@@ -21,6 +21,9 @@ IAC
 │    └── KMeans.ipynb
 │    └── PCA.ipynb
 │
+├── 4 - Aprendizado Profundo
+│    └── MLP.ipynb
+│
 ├── A0 - Fundamentos Matemáticos
 │    └── Fundamentos_Matemáticos.ipynb
 |    └── Resumo_Álgebra_Linear.ipynb
@@ -29,6 +32,10 @@ IAC
 ├── A1 - Análise, Tratamento e Visualização de Dados
 │    └── Análise_Exploratória_Dados.ipynb
 │    └── Normalizacao_Padronizacao.ipynb
+│
+├── A2 - Validação e Avaliação de Modelos
+│    └── Métodos_de_avaliação.ipynb
+│    └── Técnicas_de_validação.ipynb
 │
 ├── A3 - Hiperparâmetros
 │    └── Taxa_de_Aprendizado.ipynb
