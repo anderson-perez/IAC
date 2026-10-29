@@ -35,6 +35,7 @@ IAC
 │
 ├── A2 - Validação e Avaliação de Modelos
 │    └── Métodos_de_avaliação.ipynb
+│    └── Validacao_Modelos.ipynb
 │
 ├── A3 - Hiperparâmetros
 │    └── Taxa_de_Aprendizado.ipynb
