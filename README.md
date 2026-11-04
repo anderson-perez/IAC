@@ -24,6 +24,9 @@ IAC
 ├── 4 - Aprendizado Profundo
 │    └── MLP.ipynb
 │
+├── 5 - Aprendizado por Reforço
+│    └── Aprendizado_por_Reforço_Métodos_Tabulares.ipynb
+│
 ├── A0 - Fundamentos Matemáticos
 │    └── Fundamentos_Matemáticos.ipynb
 |    └── Resumo_Álgebra_Linear.ipynb
