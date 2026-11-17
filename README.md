@@ -23,6 +23,7 @@ IAC
 │
 ├── 4 - Aprendizado Profundo
 │    └── MLP.ipynb
+│    └── Tutorial_Keras.ipynb
 │
 ├── 5 - Aprendizado por Reforço
 │    └── Aprendizado_por_Reforço_Métodos_Tabulares.ipynb
