@@ -30,6 +30,7 @@ IAC
 │
 ├── 5 - Aprendizado por Reforço
 │    └── Aprendizado_por_Reforço_Métodos_Tabulares.ipynb
+│    └── Aprendizado_por_Reforço_DQN_PPO.ipynb
 │
 ├── A0 - Fundamentos Matemáticos
 │    └── Fundamentos_Matemáticos.ipynb
